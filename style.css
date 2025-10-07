@@ -8,12 +8,10 @@ body {
   margin:50px auto;
   padding:20px;
   background-color: 15px;
-  box-shadow: 0 8px 12px rgba (0,0,0,0,1);
+  box-shadow: 0 8px 12px rgba (0,0,0,0,1); /*efek bayangan*/
+  text-align:center;
 }
 .kartu-profil img {
      width: 150px; /*trik membuat sudut menjadi melengkung*/
   border-radius: 50% /*trik untuk membuat gambar persegi menjadi lingkaran*/
-}
-.kartu-profil {
-  text-align:center;
 }

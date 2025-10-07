@@ -11,7 +11,7 @@ body {
   box-shadow: 0 8px 12px rgba (0,0,0,0,1);
 }
 .kartu-profil img {
-     width: 150px;
+     width: 150px; /*trik membuat sudut menjadi melengkung*/
   border-radius: 50% /*trik untuk membuat gambar persegi menjadi lingkaran*/
 }
 .kartu-profil {
